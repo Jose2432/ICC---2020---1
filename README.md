@@ -1,5 +1,5 @@
-# ICC---2020---1
-Contiene las prácticas 1 y 2
+# Practica1
+Practica 1 Java version
 
 Marín Parra José Guadalupe de Jesús
 316264176
