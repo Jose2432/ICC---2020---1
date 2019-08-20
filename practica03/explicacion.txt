@@ -1,0 +1,9 @@
+2. Compila y ejecuta el programa PrePost.java. Explica por qué se imprime 17 dos veces.
+Porque tenemos un decremento en la variable de x desde el inicio, no importa la pocisión de -- ya que de igual forma
+hace un decremento en x, sólo cambia la forma en que almacena la variable x.
+
+3. Compila y ejecuta el programa Operadores.java. Explica la razón del resultado obtenido.
+En dividendoEntero el resultado es 7 (no es exacto) ya que la variable que actúa como dividendo está declarada como
+entero, razón por la cual el resultado es un entero.
+En dividendoReal el resultado es 7.8 (exacto) ya que la variable que actúa como dividendo está declarada como double,
+razón por la cual el resultado es un real. 
