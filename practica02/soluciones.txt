@@ -1,0 +1,41 @@
+Práctica 2. Sintaxis java
+
+Error #1
+Línea: 9
+Descripción: Aparecía una 'n' mayúscula en la palabra reservada boolean y tenía asignado un valor entero.
+Cambié esa letra mayúscula por una minúscula y le asigne el valor de "true" a su variable.
+
+Error #2
+Línea: 10
+Descripción: El valor asignado a la variable "ochoBits" no es aceptado por el tipo de dato byte.
+Lo cambié a un short.
+
+Error #3
+Línea: 11
+Descripción: El valor asignado a la variable "diesiseisBits" no es aceptado por el tipo de dato byte.
+Lo cambié a un int.
+
+Error #4, #5
+Línea: 14
+Descripción: La variable "discriminante" tenía una letra mayúscula; El tipo de dato long era incorrecto para sus valores.
+Puse la variable tal y como se declaró al principio; Cambié el tipo de dato a double.
+
+Error #6
+Línea: 17
+Descripción: El tipo de dato char estaba escrito con una mayúscula, algo incorrecto.
+Cambié esa mayúscula por minúscula.
+
+Error #7, #8
+Línea: 18
+Descripción: La variable "ch" no estaba correctamente escrita a como se declaró al inicio; El valor de la variable "ch2" no estaba entre comillas simples.
+La escribí como se declaró originalmente; Puse su valor entre comillas simples.
+
+Error #9
+Línea: 19
+Descripción: Es un error de ejecución. El divisor era 0, algo que no es correcto en una división.
+Le sumé 1 a la variable 'a' para que el divisor fuera distinto de 0.
+
+Error #10
+Línea: 22
+Descripción: El valor asignado a la variable "var_1" es muy largo ya que está es de tipo entero.
+Cambié el valor asignado a a variable para que concuerde con el tipo entero.
