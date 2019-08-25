@@ -34,7 +34,7 @@ public class RFC {
 		aMaterno = nombreCompleto.substring(0,1);
 
 		//haremos lo mismo que se hizo con el nombre, pero ahora para la fecha
-		//identificamos la primer diagonal para separar el dia y gaurdaos esos dos digitos
+		//identificamos la primer diagonal para separar el dia y guardamos esos dos digitos
 		fechaNaciemiento = fechaNaciemiento.trim();
 		posicion2 = fechaNaciemiento.indexOf("/");
 		dia = fechaNaciemiento.substring(0,posicion2);
