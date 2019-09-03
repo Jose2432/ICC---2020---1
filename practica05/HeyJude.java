@@ -88,22 +88,15 @@ public class HeyJude {
       System.out.println(toMake);
     }
 
-    if (p==2 || p==4){
+    if (p==2 || p==4 || p==6){
       int i=0;
       while (i<11){
         System.out.print(na);
         i++;
       }
-      System.out.println();
-    }
-
-    if (p==6){
-      int a=0;
-      while (a<11){
-        System.out.print(na);
-        a++;
+      if (p==6){
+        System.out.print(heyJude);
       }
-      System.out.print (heyJude);
       System.out.println();
     }
 
